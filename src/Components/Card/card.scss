@@ -1,0 +1,15 @@
+/** @format */
+
+.card:hover {
+  background-color: rgba(245, 245, 245, 0.523);
+  cursor: pointer;
+}
+
+.card {
+  border-radius: 10px;
+  width: 90%;
+  height: fit-content;
+  background-color: whitesmoke;
+  padding: 10px;
+  margin: 1rem;
+}
